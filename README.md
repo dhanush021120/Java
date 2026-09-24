@@ -162,3 +162,32 @@ Is Absolute:false
 File Last Modified:0
 File Size:0bytes
 Is Hidden:false
+
+OUTPUT EX11:
+
+OUTPUT EX12:
+
+──(kali㉿kali)-[~/javalab]
+└─$ java reservation
+
+Railway Reservation For Kabul Express 
+1. Book ticket 
+2. Cancel ticket 
+3. Search passenger 
+4. Reservation chart 
+5. Display unbooked tickets 
+6. Exit 
+Please enter your choice 
+1 
+Please enter the class of ticket 
+1. AC    2. First        3. Sleeper 
+1 
+Please enter no. of tickets 
+1 
+Please enter your name 
+Sanjay
+Please enter your age 20 
+Please enter your phno 
+8767897676 
+Ticket successfully booked 
+Please pay Rs.1500 
