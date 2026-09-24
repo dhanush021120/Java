@@ -106,3 +106,15 @@ New Thread 7 is ODD and Cube of 7 is: 343
 
 OUTPUT EX8:
 
+(kali㉿kali)-[~/javalab]
+└─$ java InterThreadCommunication      
+Produced: 1
+Consumed: 1
+Produced: 2
+Consumed: 2
+Produced: 3
+Consumed: 3
+Produced: 4
+Consumed: 4
+Produced: 5
+Consumed: 5
